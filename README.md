@@ -10,13 +10,9 @@ Developing applications using technologies such as MATLAB, Python, and Machine L
 Currently learning more about mesh‑independence studies, automation, and optimisation and exploring advanced meshing strategies and CFD–ML integration.
 
 ## Projects
-| Area | Project |
-| :--- | :--- |
-| **[Project Area 1]** | [Project Name 1](#)<br>A brief description of what th
-is project does and the tools used. |
-| **[Project Area 2]** | [Project Name 2](#)<br>Another short description high
-lighting your contributions and tech stack. |
----
+
+| **CFD Simulation & Meshing** | **Turbulent Flow Mesh‑Independence Study**<br>Designed multi‑level meshes (coarse → fine), automated post‑processing in MATLAB, and evaluated convergence of velocity, pressure, and drag coefficients. |
+| **CFD + Machine Learning** | **Surrogate Modelling for Flow Prediction**<br>Built ML models to approximate CFD outputs, reducing simulation time. Used Python, regression models, and feature engineering from simulation data. |
 ## Certifications & Skills
 * GitHub Foundations — [In Progress]
 * **Key Skills:** MATLAB,  [Skill 2], [Skill 3
